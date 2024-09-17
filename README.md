@@ -13,3 +13,16 @@ In this project, I develop a machine learning model to predict movie ratings bas
 analyzes historical movie data to estimate ratings provided by users or critics. The project involves data preprocessing, feature engineering, and model building, 
 offering insights into the key factors influencing movie ratings. It is an excellent exercise for exploring data analysis and machine learning techniques while 
 understanding how different elements contribute to a movie’s success or reception.
+
+Task : 3 - Iris Flower Classification
+
+In this project, I developed a machine learning model to classify Iris flowers into three species—Setosa, Versicolor, and Virginica—based on their sepal and petal measurements. Using the widely recognized Iris dataset, I performed data preprocessing, exploratory data analysis (EDA), and applied classification algorithms to build a model that predicts flower species accurately. This project involves analyzing the relationships between different features and the species, offering insights into the fundamental principles of classification tasks. It serves as an excellent introduction to machine learning and data analysis techniques, showcasing the practical application of these skills.
+
+
+Feel free to explore the code and try it out yourself!
+
+
+
+
+
+
